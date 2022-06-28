@@ -6,6 +6,7 @@ def main(s):
     Returns:
         int: answer
     """
+    s = int(s)
     a = s%10
     s//=10
 
