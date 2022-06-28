@@ -6,5 +6,5 @@ def main(s):
     Returns:
         str: answer
     """
-    return s[1:3]
+    return s[0:3]
 print(main("python coder"))
